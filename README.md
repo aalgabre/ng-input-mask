@@ -12,6 +12,7 @@ A = Uppercase
 
 ## Example
 
-<input mask="(999-9999-999)" />
 
-<input mask="AA-3333-333" />
+`<input mask="(999-9999-999)" />`
+
+`<input mask="AA-3333-333" />`
